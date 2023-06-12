@@ -22,4 +22,4 @@ sudo apt-get install libreoffice-kf5
 Open firefox config
 ```
 security.tls.version.min 3 -> 1
-``
+```
