@@ -1,5 +1,5 @@
 # framework-config
-Various config notes for Framnework Laptop
+Various config notes for Framework 13 Laptop
 
 # Keyboard brightness controls
 
