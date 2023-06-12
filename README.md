@@ -17,3 +17,9 @@ sudo update-initramfs -u
 ```
 sudo apt-get install libreoffice-kf5
 ```
+# Outdated Citrix 
+
+Open firefox config
+```
+security.tls.version.min 3 -> 1
+``
