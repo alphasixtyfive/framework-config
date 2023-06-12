@@ -12,3 +12,8 @@ blacklist hid_sensor_hub
 ```
 sudo update-initramfs -u
 ```
+
+# Libre Office
+```
+sudo apt-get install libreoffice-kf5
+```
